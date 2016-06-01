@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    top: 100%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    letter-spacing: 5px;
+    background: url(fon.jpg);
+	color: #fff;
+	text-align: center;
+	position: relative;
+}
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #FFF;
+    float: left;
+    margin-left: 25px;
+    margin: 30px 50px 0px 0px;
+    font-weight: bold;
+    font-weight: 900;
+}
+.header-of-main-page { 
+    text-align: right;
+    height: auto;
+    padding: 20px;
+    font-size:25px;
+}
+
+img:{
+border-radius: 500px;
+ }
+ 
+.about-me {
+    text-align: right;
+    white-space: pre;
+    margin-right: 20px;
+    letter-Spacing: .1em;
+    line-height: 35px;
+    font-size: 18px;
+}
